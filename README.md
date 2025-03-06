@@ -10,6 +10,6 @@ Watch the demo video on YouTube:
 
 <p align="center">
   <a href="https://youtu.be/A9zJQAmjeao">
-    <img src="https://img.youtube.com/vi/A9zJQAmjeao/0.jpg" alt="Game-KFS Video" style="width:100%; max-width:800px;">
+    <img src="https://img.youtube.com/vi/A9zJQAmjeao/maxresdefault.jpg" alt="Game-KFS Video" style="width:100%; max-width:800px;">
   </a>
 </p>
