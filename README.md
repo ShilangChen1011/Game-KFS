@@ -3,4 +3,9 @@ This project is developed to implement a game-theoretic keyframe selection metho
 
 ## The code will be released once the paper is accepted.
 
-## TODO
+
+## Video Demonstration
+
+Watch the demo video on YouTube:
+
+[![Game-KFS Video](https://img.youtube.com/vi/A9zJQAmjeao/0.jpg)](https://youtu.be/A9zJQAmjeao)
