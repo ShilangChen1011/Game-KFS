@@ -8,6 +8,8 @@ This project is developed to implement a game-theoretic keyframe selection metho
 
 Watch the demo video on YouTube:
 
-<center>
-[![Game-KFS Video](https://img.youtube.com/vi/A9zJQAmjeao/0.jpg)](https://youtu.be/A9zJQAmjeao)
-</center>
+<p align="center">
+  <a href="https://youtu.be/A9zJQAmjeao">
+    <img src="https://img.youtube.com/vi/A9zJQAmjeao/0.jpg" alt="Game-KFS Video" style="width:100%; max-width:800px;">
+  </a>
+</p>
